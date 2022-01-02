@@ -1,9 +1,12 @@
 Eai, sou o Matheus xD
 
   Estou iniciando na área de dados e estou focado em aprender as diversas ferramentas que irão me auxiliar nessa caminhada.
-  Nos repositórios terá bastante conteúdo em Python e R, mas não fico preso apenas a essas 2 ferramentas, por exemplo, também realizo alguns trabalhos com o Power BI, além de estudar a área de banco de dados.
+  Nos repositórios terá bastante conteúdo em Python e R, mas não fico preso apenas a essas 2 ferramentas.
   
-  Atualmente estou finalizando um bootcamp de analista de dados na IGTI, que relaciona os conceitos estatísticos e as ferramentas que auxiliam no processo e iniciando o bootcamp Cognizant Cloud Data Engineer na DIO.
+  Atualmente faço estágio na área de BI e trabalho bastante com Power BI (DAX e Power Query) e diversos tipos de conexões à fonte de dados, como SQL server e API. Além disso, estou sempre estudando a área de data science e incluirei algumas práticas neste github.
+  
+  
+  
 
 
 
